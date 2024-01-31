@@ -1,2 +1,4 @@
-# MOVIE-RECOMMENDATION-SYSTEM-USING-MACHINE-LEARNING-WITH-PYTHON
-In this project is to make is system which can take user input and suggest movie  based on input given by the user in the form of movie name.
+# TEXT DETECTION AND ANALYSIS USING 
+TKINTER AND VADER SENTIMENT ANALYSIS
+A system that can understand the sentiment behind the text (like 
+human does), and show the positive and negative.
